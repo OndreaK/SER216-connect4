@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"core","c":"Connect4Client","l":"Connect4Client()"},{"p":"core","c":"Connect4Client","l":"main(String[])","url":"main-java.lang.String:A-"},{"p":"core","c":"Connect4Client","l":"setUI(String)","url":"setUI-java.lang.String-"},{"p":"core","c":"Connect4Client","l":"start(Stage)","url":"start-javafx.stage.Stage-"}]
